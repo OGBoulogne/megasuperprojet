@@ -1,0 +1,12 @@
+TODO
+
+- violer le petit cul jules
+- déguster un enfant
+
+- COMMANDE QUI VA DEFINIR :
+    Le salon où se situe le règlement afin que l'user puisse les accepter
+    => créé le rôle de membre (et attribue permissions)
+    => attribuer à l'utilisateur le rôle de membre lorsque clic sur reaction
+
+
+
